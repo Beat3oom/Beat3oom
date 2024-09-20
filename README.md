@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Welcome to my profile
+## Made this because of Alura..
 <!--
 **Beat3oom/Beat3oom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
